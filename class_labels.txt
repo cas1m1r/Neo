@@ -1,0 +1,18 @@
+1: Denial of Service
+2: Buffer/Stack Overflows
+3: Other Memory Safety (leaks, heap corruption, etc.)
+4: Injections (SQLi, XXE, etc.)
+5: Misconfigurations (sensitive info leak, protection bypass, etc.)
+6: Cryptographic Weakness
+7: Access Control Bypass
+8: RCE
+9: File Creation/Deletion
+10: Escalation of Privilege
+11: Spoofing
+12: Cache Posioning
+13: Identity/Authentication Weaknesses (session cookies, default credentials)
+14: Deserialization
+15: Cross Site Request Forgery
+16: Cross Site Scripting
+17: CVE-ID not usable
+18: unknown
