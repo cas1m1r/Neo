@@ -18,3 +18,5 @@ To Train such a model run:
 `python3 cnn.py train`
 To evaluate after training:
 `python3 cnn.py evaluate [Text Description of Vulnerability]`
+An example: 
+![ex](https://raw.githubusercontent.com/cas1m1r/Neo/refs/heads/main/hypothetical_cve_classified.png)
